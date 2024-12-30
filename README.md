@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm working on: WordPress, GSAP, UI/UX.<br>🤝 I'm collaborating on: Open-source themes, animations.<br>❓ I'm seeking help with: API integrations, and headless CMS.<br>🌱 I'm learning: AI, ML, and their applications in web development.<br>💬 Ask me about: WordPress, e-commerce, and animations.<br>🎉 Fun fact: I’ve worked across diverse industries!
 
+<img src="https://github.com/parmar-vatsal/parmar-vatsal/blob/main/grid_snake.svg">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webdev.vatsalparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-parmar-7a957b270) 
