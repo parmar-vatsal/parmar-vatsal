@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me:
 🔭 I'm working on: WordPress, GSAP, UI/UX.<br>🤝 I'm collaborating on: Open-source themes, animations.<br>❓ I'm seeking help with: API integrations, and headless CMS.<br>🌱 I'm learning: AI, ML, and their applications in web development.<br>💬 Ask me about: WordPress, e-commerce, and animations.<br>🎉 Fun fact: I’ve worked across diverse industries!
 
@@ -57,5 +55,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parmar-vatsal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
